@@ -13,3 +13,4 @@ target/
 .classpath
 .settings/
 .loadpath
+*.class
